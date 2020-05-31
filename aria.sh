@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Set the variable below to your Aria password
-ARIA_RPC_SECRET="hEdHJv%}H%g1ZcCz+jKnA#GyrGU6rm"
+ARIA_RPC_SECRET="password2019"
 ## This is the maximum number of download jobs that will be active at a time. Note that this does not affect the number of concurrent *uploads*
 MAX_CONCURRENT_DOWNLOADS=3
 ## The port that RPC will listen on
